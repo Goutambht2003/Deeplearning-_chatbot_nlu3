@@ -1,0 +1,13 @@
+# Ignore virtual environments
+.venv/
+venv/
+
+# Ignore large model files and artifacts
+artifacts/
+*.safetensors
+
+# Common Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

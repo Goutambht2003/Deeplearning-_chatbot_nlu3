@@ -1,0 +1,133 @@
+{"text": "book a flight from delhi to bangalore tomorrow", "label": "BookFlight"}
+{"text": "find flights from mumbai to hyderabad next week", "label": "BookFlight"}
+{"text": "i want to book a flight from pune to chennai", "label": "BookFlight"}
+{"text": "book me a ticket from kolkata to delhi", "label": "BookFlight"}
+{"text": "i need a flight from bangalore to mumbai tomorrow", "label": "BookFlight"}
+{"text": "find me flights to hyderabad next monday", "label": "BookFlight"}
+{"text": "book a flight to chennai tomorrow", "label": "BookFlight"}
+{"text": "can you find me a flight to mumbai today", "label": "BookFlight"}
+{"text": "i want a ticket from pune to kolkata", "label": "BookFlight"}
+{"text": "book a flight from delhi to hyderabad next friday", "label": "BookFlight"}
+{"text": "find flights from bangalore to kolkata tomorrow", "label": "BookFlight"}
+{"text": "book me a flight from mumbai to delhi next monday", "label": "BookFlight"}
+{"text": "i need a flight to bangalore tomorrow", "label": "BookFlight"}
+{"text": "find flights to delhi next week", "label": "BookFlight"}
+{"text": "book a flight from hyderabad to pune tomorrow", "label": "BookFlight"}
+{"text": "i want to fly from kolkata to chennai next friday", "label": "BookFlight"}
+{"text": "book a flight from mumbai to bangalore tomorrow", "label": "BookFlight"}
+{"text": "find me a ticket to chennai today", "label": "BookFlight"}
+{"text": "i need to book a flight to delhi next week", "label": "BookFlight"}
+{"text": "book a flight to pune tomorrow morning", "label": "BookFlight"}
+{"text": "find a flight from delhi to mumbai tonight", "label": "BookFlight"}
+{"text": "book my flight from chennai to hyderabad tomorrow", "label": "BookFlight"}
+{"text": "i need a ticket from kolkata to pune today", "label": "BookFlight"}
+{"text": "find flights from bangalore to delhi this weekend", "label": "BookFlight"}
+{"text": "book a flight to hyderabad on monday", "label": "BookFlight"}
+
+{"text": "what's the weather in mumbai", "label": "WeatherQuery"}
+{"text": "is it raining in delhi today", "label": "WeatherQuery"}
+{"text": "how's the temperature in chennai tomorrow", "label": "WeatherQuery"}
+{"text": "what is the weather in kolkata today", "label": "WeatherQuery"}
+{"text": "how is the weather tomorrow in delhi", "label": "WeatherQuery"}
+{"text": "will it rain in bangalore today", "label": "WeatherQuery"}
+{"text": "is it sunny in mumbai today", "label": "WeatherQuery"}
+{"text": "how's the weather in pune tomorrow", "label": "WeatherQuery"}
+{"text": "what's the forecast in kolkata today", "label": "WeatherQuery"}
+{"text": "will it snow in delhi tomorrow", "label": "WeatherQuery"}
+{"text": "is it cloudy in chennai today", "label": "WeatherQuery"}
+{"text": "what's the temperature in delhi tomorrow", "label": "WeatherQuery"}
+{"text": "will it rain in hyderabad tomorrow", "label": "WeatherQuery"}
+{"text": "how's the forecast in bangalore today", "label": "WeatherQuery"}
+{"text": "what's the temperature in mumbai today", "label": "WeatherQuery"}
+{"text": "will it be sunny in chennai tomorrow", "label": "WeatherQuery"}
+{"text": "tell me the weather in hyderabad next week", "label": "WeatherQuery"}
+{"text": "what's the humidity in pune today", "label": "WeatherQuery"}
+{"text": "is it hot in delhi this afternoon", "label": "WeatherQuery"}
+{"text": "show me weather forecast for bangalore", "label": "WeatherQuery"}
+{"text": "what will the temperature be in kolkata tomorrow", "label": "WeatherQuery"}
+{"text": "will it be windy in chennai today", "label": "WeatherQuery"}
+{"text": "is it cold in mumbai tonight", "label": "WeatherQuery"}
+{"text": "what's the weather prediction for pune next monday", "label": "WeatherQuery"}
+{"text": "is it likely to rain in hyderabad today", "label": "WeatherQuery"}
+
+{"text": "cancel my ticket", "label": "CancelBooking"}
+{"text": "please cancel my flight booking", "label": "CancelBooking"}
+{"text": "i want to cancel my reservation", "label": "CancelBooking"}
+{"text": "cancel my flight ticket", "label": "CancelBooking"}
+{"text": "please cancel my flight", "label": "CancelBooking"}
+{"text": "i need to cancel my ticket to mumbai", "label": "CancelBooking"}
+{"text": "can you cancel my flight tomorrow", "label": "CancelBooking"}
+{"text": "please cancel my booking for delhi", "label": "CancelBooking"}
+{"text": "cancel my reservation for bangalore flight", "label": "CancelBooking"}
+{"text": "i want to cancel my ticket to kolkata", "label": "CancelBooking"}
+{"text": "cancel my flight immediately", "label": "CancelBooking"}
+{"text": "cancel the reservation i made yesterday", "label": "CancelBooking"}
+{"text": "please cancel my flight scheduled for monday", "label": "CancelBooking"}
+{"text": "cancel my ticket to hyderabad", "label": "CancelBooking"}
+{"text": "can you cancel my flight to delhi", "label": "CancelBooking"}
+{"text": "i need to cancel my booking right now", "label": "CancelBooking"}
+{"text": "cancel my round trip to mumbai", "label": "CancelBooking"}
+{"text": "please cancel my ticket booked last night", "label": "CancelBooking"}
+{"text": "cancel my flight reservation for tomorrow morning", "label": "CancelBooking"}
+{"text": "cancel my ticket from delhi to bangalore", "label": "CancelBooking"}
+{"text": "i changed my plan, cancel the booking", "label": "CancelBooking"}
+{"text": "please cancel my entire itinerary", "label": "CancelBooking"}
+{"text": "cancel both my onward and return tickets", "label": "CancelBooking"}
+{"text": "i want to withdraw my flight booking", "label": "CancelBooking"}
+{"text": "cancel my ticket for sunday", "label": "CancelBooking"}
+
+{"text": "hi", "label": "Greeting"}
+{"text": "hello there", "label": "Greeting"}
+{"text": "hey", "label": "Greeting"}
+{"text": "good morning", "label": "Greeting"}
+{"text": "good evening", "label": "Greeting"}
+{"text": "hi there", "label": "Greeting"}
+{"text": "hello", "label": "Greeting"}
+{"text": "hey there", "label": "Greeting"}
+{"text": "greetings", "label": "Greeting"}
+{"text": "good afternoon", "label": "Greeting"}
+{"text": "how are you", "label": "Greeting"}
+{"text": "what’s up", "label": "Greeting"}
+{"text": "how’s it going", "label": "Greeting"}
+{"text": "hey, how have you been", "label": "Greeting"}
+{"text": "nice to see you", "label": "Greeting"}
+{"text": "howdy", "label": "Greeting"}
+{"text": "good to see you again", "label": "Greeting"}
+{"text": "hey buddy", "label": "Greeting"}
+{"text": "hi friend", "label": "Greeting"}
+{"text": "hello, how are you doing", "label": "Greeting"}
+{"text": "long time no see", "label": "Greeting"}
+{"text": "hey, good to meet you", "label": "Greeting"}
+{"text": "hi there, how’s everything", "label": "Greeting"}
+{"text": "greetings and good day", "label": "Greeting"}
+{"text": "hi again", "label": "Greeting"}
+
+{"text": "bye", "label": "Goodbye"}
+{"text": "see you later", "label": "Goodbye"}
+{"text": "goodbye", "label": "Goodbye"}
+{"text": "talk to you later", "label": "Goodbye"}
+{"text": "see ya", "label": "Goodbye"}
+{"text": "bye bye", "label": "Goodbye"}
+{"text": "catch you later", "label": "Goodbye"}
+{"text": "farewell", "label": "Goodbye"}
+{"text": "good night", "label": "Goodbye"}
+{"text": "see you soon", "label": "Goodbye"}
+{"text": "take care", "label": "Goodbye"}
+{"text": "bye for now", "label": "Goodbye"}
+{"text": "see you tomorrow", "label": "Goodbye"}
+{"text": "see you around", "label": "Goodbye"}
+{"text": "talk soon", "label": "Goodbye"}
+{"text": "later", "label": "Goodbye"}
+{"text": "i’m heading out, bye", "label": "Goodbye"}
+{"text": "see you next time", "label": "Goodbye"}
+{"text": "goodbye, have a nice day", "label": "Goodbye"}
+{"text": "catch you tomorrow", "label": "Goodbye"}
+{"text": "talk later", "label": "Goodbye"}
+{"text": "see you in the evening", "label": "Goodbye"}
+{"text": "bye, have a great day", "label": "Goodbye"}
+{"text": "take it easy", "label": "Goodbye"}
+{"text": "see you again soon", "label": "Goodbye"}
+
+
+
+

@@ -1,0 +1,133 @@
+{"tokens": ["book","a","flight","from","delhi","to","bangalore","tomorrow"], "labels": ["O","O","O","O","B-FROM_LOC","O","B-TO_LOC","B-DATE"]}
+{"tokens": ["find","flights","from","mumbai","to","hyderabad","next","week"], "labels": ["O","O","O","B-FROM_LOC","O","B-TO_LOC","B-DATE","I-DATE"]}
+{"tokens": ["i","want","to","book","a","flight","from","pune","to","chennai"], "labels": ["O","O","O","O","O","O","O","B-FROM_LOC","O","B-TO_LOC"]}
+{"tokens": ["book","me","a","ticket","from","kolkata","to","delhi"], "labels": ["O","O","O","O","O","B-FROM_LOC","O","B-TO_LOC"]}
+{"tokens": ["i","need","a","flight","from","bangalore","to","mumbai","tomorrow"], "labels": ["O","O","O","O","O","B-FROM_LOC","O","B-TO_LOC","B-DATE"]}
+{"tokens": ["find","me","flights","to","hyderabad","next","monday"], "labels": ["O","O","O","O","B-TO_LOC","B-DATE","I-DATE"]}
+{"tokens": ["book","a","flight","to","chennai","tomorrow"], "labels": ["O","O","O","O","B-TO_LOC","B-DATE"]}
+{"tokens": ["can","you","find","me","a","flight","to","mumbai","today"], "labels": ["O","O","O","O","O","O","O","B-TO_LOC","B-DATE"]}
+{"tokens": ["i","want","a","ticket","from","pune","to","kolkata"], "labels": ["O","O","O","O","O","B-FROM_LOC","O","B-TO_LOC"]}
+{"tokens": ["book","a","flight","from","delhi","to","hyderabad","next","friday"], "labels": ["O","O","O","O","B-FROM_LOC","O","B-TO_LOC","B-DATE","I-DATE"]}
+{"tokens": ["find","flights","from","bangalore","to","kolkata","tomorrow"], "labels": ["O","O","O","B-FROM_LOC","O","B-TO_LOC","B-DATE"]}
+{"tokens": ["book","me","a","flight","from","mumbai","to","delhi","next","monday"], "labels": ["O","O","O","O","O","B-FROM_LOC","O","B-TO_LOC","B-DATE","I-DATE"]}
+{"tokens": ["i","need","a","flight","to","bangalore","tomorrow"], "labels": ["O","O","O","O","O","B-TO_LOC","B-DATE"]}
+{"tokens": ["find","flights","to","delhi","next","week"], "labels": ["O","O","O","B-TO_LOC","B-DATE","I-DATE"]}
+{"tokens": ["book","a","flight","from","hyderabad","to","pune","tomorrow"], "labels": ["O","O","O","O","B-FROM_LOC","O","B-TO_LOC","B-DATE"]}
+{"tokens": ["i","want","to","fly","from","kolkata","to","chennai","next","friday"], "labels": ["O","O","O","O","O","B-FROM_LOC","O","B-TO_LOC","B-DATE","I-DATE"]}
+{"tokens": ["book","a","flight","from","mumbai","to","bangalore","tomorrow"], "labels": ["O","O","O","O","B-FROM_LOC","O","B-TO_LOC","B-DATE"]}
+{"tokens": ["find","me","a","ticket","to","chennai","today"], "labels": ["O","O","O","O","O","B-TO_LOC","B-DATE"]}
+{"tokens": ["i","need","to","book","a","flight","to","delhi","next","week"], "labels": ["O","O","O","O","O","O","O","B-TO_LOC","B-DATE","I-DATE"]}
+{"tokens": ["book","a","flight","to","pune","tomorrow","morning"], "labels": ["O","O","O","O","B-TO_LOC","B-DATE","I-DATE"]}
+{"tokens": ["find","a","flight","from","delhi","to","mumbai","tonight"], "labels": ["O","O","O","O","B-FROM_LOC","O","B-TO_LOC","B-DATE"]}
+{"tokens": ["book","my","flight","from","chennai","to","hyderabad","tomorrow"], "labels": ["O","O","O","O","B-FROM_LOC","O","B-TO_LOC","B-DATE"]}
+{"tokens": ["i","need","a","ticket","from","kolkata","to","pune","today"], "labels": ["O","O","O","O","O","B-FROM_LOC","O","B-TO_LOC","B-DATE"]}
+{"tokens": ["find","flights","from","bangalore","to","delhi","this","weekend"], "labels": ["O","O","O","B-FROM_LOC","O","B-TO_LOC","B-DATE","I-DATE"]}
+{"tokens": ["book","a","flight","to","hyderabad","on","monday"], "labels": ["O","O","O","O","B-TO_LOC","O","B-DATE"]}
+
+{"tokens":["what's","the","weather","in","mumbai"],"labels":["O","O","B-WEATHER_ATTR","O","B-LOC"]}
+{"tokens":["is","it","raining","in","delhi","today"],"labels":["O","O","B-WEATHER_ATTR","O","B-LOC","B-DATE"]}
+{"tokens":["how's","the","temperature","in","chennai","tomorrow"],"labels":["O","O","B-WEATHER_ATTR","O","B-LOC","B-DATE"]}
+{"tokens":["what","is","the","weather","in","kolkata","today"],"labels":["O","O","O","B-WEATHER_ATTR","O","B-LOC","B-DATE"]}
+{"tokens":["how","is","the","weather","tomorrow","in","delhi"],"labels":["O","O","O","B-WEATHER_ATTR","B-DATE","O","B-LOC"]}
+{"tokens":["will","it","rain","in","bangalore","today"],"labels":["O","O","B-WEATHER_ATTR","O","B-LOC","B-DATE"]}
+{"tokens":["is","it","sunny","in","mumbai","today"],"labels":["O","O","B-WEATHER_ATTR","O","B-LOC","B-DATE"]}
+{"tokens":["how's","the","weather","in","pune","tomorrow"],"labels":["O","O","B-WEATHER_ATTR","O","B-LOC","B-DATE"]}
+{"tokens":["what's","the","forecast","in","kolkata","today"],"labels":["O","O","B-WEATHER_ATTR","O","B-LOC","B-DATE"]}
+{"tokens":["will","it","snow","in","delhi","tomorrow"],"labels":["O","O","B-WEATHER_ATTR","O","B-LOC","B-DATE"]}
+{"tokens":["is","it","cloudy","in","chennai","today"],"labels":["O","O","B-WEATHER_ATTR","O","B-LOC","B-DATE"]}
+{"tokens":["what's","the","temperature","in","delhi","tomorrow"],"labels":["O","O","B-WEATHER_ATTR","O","B-LOC","B-DATE"]}
+{"tokens":["will","it","rain","in","hyderabad","tomorrow"],"labels":["O","O","B-WEATHER_ATTR","O","B-LOC","B-DATE"]}
+{"tokens":["how's","the","forecast","in","bangalore","today"],"labels":["O","O","B-WEATHER_ATTR","O","B-LOC","B-DATE"]}
+{"tokens":["what's","the","temperature","in","mumbai","today"],"labels":["O","O","B-WEATHER_ATTR","O","B-LOC","B-DATE"]}
+{"tokens":["will","it","be","sunny","in","chennai","tomorrow"],"labels":["O","O","O","B-WEATHER_ATTR","O","B-LOC","B-DATE"]}
+{"tokens":["tell","me","the","weather","in","hyderabad","next","week"],"labels":["O","O","O","B-WEATHER_ATTR","O","B-LOC","B-DATE","I-DATE"]}
+{"tokens":["what's","the","humidity","in","pune","today"],"labels":["O","O","B-WEATHER_ATTR","O","B-LOC","B-DATE"]}
+{"tokens":["is","it","hot","in","delhi","this","afternoon"],"labels":["O","O","B-WEATHER_ATTR","O","B-LOC","B-DATE","I-DATE"]}
+{"tokens":["show","me","weather","forecast","for","bangalore"],"labels":["O","O","B-WEATHER_ATTR","I-WEATHER_ATTR","O","B-LOC"]}
+{"tokens":["what","will","the","temperature","be","in","kolkata","tomorrow"],"labels":["O","O","O","B-WEATHER_ATTR","O","O","B-LOC","B-DATE"]}
+{"tokens":["will","it","be","windy","in","chennai","today"],"labels":["O","O","O","B-WEATHER_ATTR","O","B-LOC","B-DATE"]}
+{"tokens":["is","it","cold","in","mumbai","tonight"],"labels":["O","O","B-WEATHER_ATTR","O","B-LOC","B-DATE"]}
+{"tokens":["what's","the","weather","prediction","for","pune","next","monday"],"labels":["O","O","B-WEATHER_ATTR","I-WEATHER_ATTR","O","B-LOC","B-DATE","I-DATE"]}
+{"tokens":["is","it","likely","to","rain","in","hyderabad","today"],"labels":["O","O","O","O","B-WEATHER_ATTR","O","B-LOC","B-DATE"]}
+
+{"tokens":["cancel","my","ticket"],"labels":["O","O","O"]}
+{"tokens":["please","cancel","my","flight","booking"],"labels":["O","O","O","O","O"]}
+{"tokens":["i","want","to","cancel","my","reservation"],"labels":["O","O","O","O","O","O"]}
+{"tokens":["cancel","my","flight","ticket"],"labels":["O","O","O","O"]}
+{"tokens":["please","cancel","my","flight"],"labels":["O","O","O","O"]}
+{"tokens":["i","need","to","cancel","my","ticket","to","mumbai"],"labels":["O","O","O","O","O","O","O","B-TO_LOC"]}
+{"tokens":["can","you","cancel","my","flight","tomorrow"],"labels":["O","O","O","O","O","B-DATE"]}
+{"tokens":["please","cancel","my","booking","for","delhi"],"labels":["O","O","O","O","O","B-TO_LOC"]}
+{"tokens":["cancel","my","reservation","for","bangalore","flight"],"labels":["O","O","O","O","B-TO_LOC","O"]}
+{"tokens":["i","want","to","cancel","my","ticket","to","kolkata"],"labels":["O","O","O","O","O","O","O","B-TO_LOC"]}
+{"tokens":["cancel","my","flight","immediately"],"labels":["O","O","O","O"]}
+{"tokens":["cancel","the","reservation","i","made","yesterday"],"labels":["O","O","O","O","O","B-DATE"]}
+{"tokens":["please","cancel","my","flight","scheduled","for","monday"],"labels":["O","O","O","O","O","O","B-DATE"]}
+{"tokens":["cancel","my","ticket","to","hyderabad"],"labels":["O","O","O","O","B-TO_LOC"]}
+{"tokens":["can","you","cancel","my","flight","to","delhi"],"labels":["O","O","O","O","O","O","B-TO_LOC"]}
+{"tokens":["i","need","to","cancel","my","booking","right","now"],"labels":["O","O","O","O","O","O","B-DATE","I-DATE"]}
+{"tokens":["cancel","my","round","trip","to","mumbai"],"labels":["O","O","O","O","O","B-TO_LOC"]}
+{"tokens":["please","cancel","my","ticket","booked","last","night"],"labels":["O","O","O","O","O","B-DATE","I-DATE"]}
+{"tokens":["cancel","my","flight","reservation","for","tomorrow","morning"],"labels":["O","O","O","O","O","B-DATE","I-DATE"]}
+{"tokens":["cancel","my","ticket","from","delhi","to","bangalore"],"labels":["O","O","O","O","B-FROM_LOC","O","B-TO_LOC"]}
+{"tokens":["i","changed","my","plan,","cancel","the","booking"],"labels":["O","O","O","O","O","O","O"]}
+{"tokens":["please","cancel","my","entire","itinerary"],"labels":["O","O","O","O","O"]}
+{"tokens":["cancel","both","my","onward","and","return","tickets"],"labels":["O","O","O","O","O","O","O"]}
+{"tokens":["i","want","to","withdraw","my","flight","booking"],"labels":["O","O","O","O","O","O","O"]}
+{"tokens":["cancel","my","ticket","for","sunday"],"labels":["O","O","O","O","B-DATE"]}
+
+{"tokens":["hi"],"labels":["O"]}
+{"tokens":["hello","there"],"labels":["O","O"]}
+{"tokens":["hey"],"labels":["O"]}
+{"tokens":["good","morning"],"labels":["O","O"]}
+{"tokens":["good","evening"],"labels":["O","O"]}
+{"tokens":["hi","there"],"labels":["O","O"]}
+{"tokens":["hello"],"labels":["O"]}
+{"tokens":["hey","there"],"labels":["O","O"]}
+{"tokens":["greetings"],"labels":["O"]}
+{"tokens":["good","afternoon"],"labels":["O","O"]}
+{"tokens":["how","are","you"],"labels":["O","O","O"]}
+{"tokens":["what’s","up"],"labels":["O","O"]}
+{"tokens":["how’s","it","going"],"labels":["O","O","O"]}
+{"tokens":["hey,","how","have","you","been"],"labels":["O","O","O","O","O"]}
+{"tokens":["nice","to","see","you"],"labels":["O","O","O","O"]}
+{"tokens":["howdy"],"labels":["O"]}
+{"tokens":["good","to","see","you","again"],"labels":["O","O","O","O","O"]}
+{"tokens":["hey","buddy"],"labels":["O","O"]}
+{"tokens":["hi","friend"],"labels":["O","O"]}
+{"tokens":["hello,","how","are","you","doing"],"labels":["O","O","O","O","O"]}
+{"tokens":["long","time","no","see"],"labels":["O","O","O","O"]}
+{"tokens":["hey,","good","to","meet","you"],"labels":["O","O","O","O","O"]}
+{"tokens":["hi","there,","how’s","everything"],"labels":["O","O","O","O"]}
+{"tokens":["greetings","and","good","day"],"labels":["O","O","O","O"]}
+{"tokens":["hi","again"],"labels":["O","O"]}
+
+{"tokens":["bye"],"labels":["O"]}
+{"tokens":["see","you","later"],"labels":["O","O","O"]}
+{"tokens":["goodbye"],"labels":["O"]}
+{"tokens":["talk","to","you","later"],"labels":["O","O","O","O"]}
+{"tokens":["see","ya"],"labels":["O","O"]}
+{"tokens":["bye","bye"],"labels":["O","O"]}
+{"tokens":["catch","you","later"],"labels":["O","O","O"]}
+{"tokens":["farewell"],"labels":["O"]}
+{"tokens":["good","night"],"labels":["O","O"]}
+{"tokens":["see","you","soon"],"labels":["O","O","O"]}
+{"tokens":["take","care"],"labels":["O","O"]}
+{"tokens":["bye","for","now"],"labels":["O","O","O"]}
+{"tokens":["see","you","tomorrow"],"labels":["O","O","B-DATE"]}
+{"tokens":["see","you","around"],"labels":["O","O","O"]}
+{"tokens":["talk","soon"],"labels":["O","O"]}
+{"tokens":["later"],"labels":["O"]}
+{"tokens":["i’m","heading","out,","bye"],"labels":["O","O","O","O"]}
+{"tokens":["see","you","next","time"],"labels":["O","O","B-DATE","I-DATE"]}
+{"tokens":["goodbye,","have","a","nice","day"],"labels":["O","O","O","O","O"]}
+{"tokens":["catch","you","tomorrow"],"labels":["O","O","B-DATE"]}
+{"tokens":["talk","later"],"labels":["O","O"]}
+{"tokens":["see","you","in","the","evening"],"labels":["O","O","O","O","B-DATE"]}
+{"tokens":["bye,","have","a","great","day"],"labels":["O","O","O","O","O"]}
+{"tokens":["take","it","easy"],"labels":["O","O","O"]}
+{"tokens":["see","you","again","soon"],"labels":["O","O","O","O"]}
+
+
+
+
